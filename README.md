@@ -7,10 +7,11 @@ Predictive Maintenance System dengan dukungan AI merupakan teknologi yang menawa
 
 ![Beranda](img/beranda.png)
 
-Penjelasan singkat tentang gambaran umum proyek.
+Tampilan website dari sebuah sistem perawatan prediktif berbasis kecerdasan buatan yang disebut "Predictive Maintenance System". Sistem ini menawarkan solusi "Free Intelligent Asset Management" dengan tagline "Predicting the Unpredictable, Your Proactive Maintenance Partner".
+Secara visual, terdapat navigasi utama sistem dengan opsi-opsi seperti "Beranda", "Tentang", "Kontak", dan "Layanan". Penggunaan warna biru dan putih memberikan kesan modern dan canggih. Sistem ini memanfaatkan sensor untuk pemantauan, serta algoritma machine learning dan kecerdasan buatan untuk analisis data, sistem perawatan prediktif ini dapat memprediksi kegagalan sebelum terjadi
 
 ## Formulir Prediksi Kerusakan
 
 ![Formulir](img/formulir.png)
 
-Penjelasan singkat tentang gambaran umum proyek.
+Tampilan antarmuka web dari sistem prediksi perawatan yang memungkinkan pengguna untuk melakukan prediksi potensi kerusakan peralatan. Terdapat sebuah formulir yang meminta pengguna untuk mengunggah gambar yang akan diprediksi oleh sistem. Pengguna dapat memilih gambar dengan mengeklik tombol "Select your picture" atau dengan menarik dan menjatuhkan gambar ke area yang tersedia. Kemudian terdapat tombol "Predict" yang akan memulai proses prediksi kerusakan berdasarkan gambar yang diunggah oleh pengguna.
