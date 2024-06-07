@@ -5,6 +5,6 @@ Predictive Maintenance System dengan dukungan AI merupakan teknologi yang menawa
 
 ## Beranda
 
-![Beranda](img/beranda.png =400x300)
+![Beranda](img/beranda.png)
 
 Penjelasan singkat tentang gambaran umum proyek.
