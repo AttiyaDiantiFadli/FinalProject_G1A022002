@@ -8,3 +8,9 @@ Predictive Maintenance System dengan dukungan AI merupakan teknologi yang menawa
 ![Beranda](img/beranda.png)
 
 Penjelasan singkat tentang gambaran umum proyek.
+
+## Formulir Prediksi Kerusakan
+
+![Formulir](img/formulir.png)
+
+Penjelasan singkat tentang gambaran umum proyek.
